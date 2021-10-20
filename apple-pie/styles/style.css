@@ -1,0 +1,92 @@
+#heading{
+    background-image: url("../images/apple-pie.jpg"); 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20%;
+    background-repeat: no-repeat;
+    background-position:top;
+    background-size:100%;
+    
+}
+
+#heading h1{
+    color: white;
+}
+
+#story{
+    display: block;
+    align-items:center;
+    justify-content: center;
+    
+}
+#story p{
+    color: rgb(43, 43, 43);
+    font-size: 1em;
+    font-weight: lighter;
+    text-align:left;
+    margin: 2.5em 10em 2em 5em;
+}
+
+.prep{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.prep img{
+    width: 20.5em;
+}
+
+#ingredients{
+    display: block;
+    align-items:center;
+    justify-content: center;
+}
+
+.nutrients h3{
+    font-weight: normal;
+    text-align:left;
+    margin: 2em 4em 2em 4em;
+    
+}
+
+.nutrients ul{
+    color: rgb(43, 43, 43);
+    font-size: 1em;
+    font-weight: lighter;
+    text-align:left;
+    margin: 0em 4em 2em 4em;
+}
+
+#preparation{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+#preparation section h3{
+    font-weight: normal;
+    text-align:left;
+    margin: 2em 4em 2em 4em; 
+}
+
+#prepList{
+    color: rgb(43, 43, 43);
+    font-size: 1em;
+    font-weight: lighter;
+    text-align:left;
+    margin: 0em 4em 4em 5em;
+
+}
+
+hr {
+    width: 80%;
+    align-items: center;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
